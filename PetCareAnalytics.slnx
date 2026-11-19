@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PetCareAnalytics.App/PetCareAnalytics.App.csproj" />
+    <Project Path="src/PetCareAnalytics.Core/PetCareAnalytics.Core.csproj" />
+    <Project Path="src/PetCareAnalytics.Desktop/PetCareAnalytics.Desktop.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PetCareAnalytics.Tests/PetCareAnalytics.Tests.csproj" />
+  </Folder>
+</Solution>

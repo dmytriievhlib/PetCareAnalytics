@@ -1,0 +1,29 @@
+﻿# .NET build
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Databases
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Test results
+TestResults/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Publish
+publish/
+artifacts/
