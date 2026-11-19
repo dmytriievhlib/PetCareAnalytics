@@ -84,7 +84,7 @@ PetCareAnalytics/
 ### 1. Клонування репозиторію
 
 ```bash
-git clone https://github.com/USERNAME/PetCareAnalytics.git
+git clone https://github.com/dmytriievhlib/PetCareAnalytics.git
 cd PetCareAnalytics
 ```
 
